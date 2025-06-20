@@ -36,7 +36,7 @@ export default function Home() {
         </div>
         <div className="md:w-1/2 mb-12 md:mb-0 flex justify-center">
           <Image
-            src="/Modulrstart.png"
+            src="/modulrstart.png"
             alt="Modulr Studio visual"
             width={480}
             height={480}
