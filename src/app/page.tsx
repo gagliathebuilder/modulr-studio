@@ -36,7 +36,7 @@ export default function Home() {
         </div>
         <div className="md:w-1/2 mb-12 md:mb-0 flex justify-center">
           <Image
-            src="/modulrstart.png"
+            src="/Modulrstart.png"
             alt="Modulr Studio visual"
             width={480}
             height={480}
@@ -65,7 +65,7 @@ export default function Home() {
         viewport={{ once: true }} 
         transition={{ duration: 0.6, delay: 0.2 }}
         className="py-16 px-6 max-w-3xl mx-auto text-center relative z-10">
-        <h2 className="text-2xl font-semibold mb-8">Who It's For</h2>
+        <h2 className="text-2xl font-semibold mb-8">Who It&rsquo;s For</h2>
         <p className="text-gray-400 mb-6">
           Whether you're a solo podcaster or a growing network, Modulr Studio streamlines audio ad monetization.
         </p>
@@ -97,7 +97,10 @@ export default function Home() {
           </div>
           <div>
             <h4 className="font-bold text-lg mb-2">4. You Get Paid</h4>
-            <p>Transparent reporting, weekly payouts.</p>
+            <p>
+              Get paid, stack chips. 
+              Transparent reporting. Flexible payout terms.
+            </p>
           </div>
         </div>
       </motion.section>
